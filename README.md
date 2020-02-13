@@ -10,3 +10,5 @@
 - Using Python 2
 
 	pip install xhtml2pdf
+
+You can dynamic image url and show any image into PDF file. 
